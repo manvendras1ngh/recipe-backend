@@ -16,5 +16,14 @@
     "express": "^5.1.0",
     "mongoose": "^8.19.2",
     "nodemon": "^3.1.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvendras1ngh/recipe-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvendras1ngh/recipe-backend/issues"
+  },
+  "homepage": "https://github.com/manvendras1ngh/recipe-backend#readme"
 }
